@@ -1,0 +1,17 @@
+{
+    "name": "Daimel Moreno",
+    "website": "https://ironthrone-app.herokuapp.com/",
+    "linkedin": "https://www.linkedin.com/in/daimel-moreno-b0aab310a/",
+    "github": "daimelmr",
+    "email": "daimeldmr90@gmail.com",
+    "proficientTechnologies": ["Javascript",
+        "React",
+        "Node",
+        "Java",
+        "C#"
+    ],
+    "otherSkills": [
+        "Gamer",
+        "Sports"
+    ]
+}

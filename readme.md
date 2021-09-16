@@ -1,0 +1,1 @@
+Created a objet with basic information about me
